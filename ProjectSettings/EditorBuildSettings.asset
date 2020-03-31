@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/My name is jeff.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/Start Menu.unity
+    guid: 2460f8c72c2e49a4d990f95e25f1aaf9
+  - enabled: 1
+    path: Assets/Scenes/Core Game.unity
+    guid: 80b54f37b8b800543ba5d7c4abae2de5
+  - enabled: 1
+    path: Assets/Scenes/Play Again.unity
+    guid: 4acf67c7141c0414994c05e794981c8b
   m_configObjects: {}
